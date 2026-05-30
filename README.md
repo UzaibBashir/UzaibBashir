@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-> *"Code is the closest thing we have to a superpower."*
+> *"فإن حزب الله هم الغالبون"*
 
 - 🎓 **CSE Student** — passionate about writing code that actually matters
 - 🔭 Currently sharpening: **Full-Stack Web Dev**, **Python**, **DSA**, and **OOP**
