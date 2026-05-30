@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzaib%20Bashir%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzaib%20Bashir%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20CSE%20Student%20%7C%20Developer&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+%E2%80%A2+Coding+%E2%80%A2+Building+%E2%80%A2+Growing;Full-Stack+Development+%7C+Python+%7C+Java;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+%E2%80%A2+Coding+%E2%80%A2+Building+%E2%80%A2+Growing;AI%2FML+%7C+CSE+Student+%7C+Developer;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@
 > *"Code is the closest thing we have to a superpower."*
 
 - 🎓 **CSE Student** — passionate about writing code that actually matters
-- 🔭 Currently sharpening: **Full-Stack Web Dev**, **Python**, **DSA**, and **OOP**
+- 🔭 Currently sharpening: **AI/ML**, **Python**, **DSA**, and **OOP**
 - 🌱 Believer in learning in public and building in the open
 - 🤝 Open to collaborating on learning projects and coding challenges
 - ⚡ Fun fact: I debug better with coffee ☕
