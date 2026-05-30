@@ -3,7 +3,10 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzaib%20Bashir%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20CSE%20Student%20%7C%20Developer&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 
+
 </div>
+
+*"Code is the closest thing we have to a superpower."*
 
 ---
 
@@ -16,23 +19,11 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-> *"Code is the closest thing we have to a superpower."*
-
-- 🎓 **CSE Student** — passionate about writing code that actually matters
-- 🔭 Currently sharpening: **AI/ML**, **Python**, **DSA**, and **OOP**
-- 🌱 Believer in learning in public and building in the open
-- 🤝 Open to collaborating on learning projects and coding challenges
-- ⚡ Fun fact: I debug better with coffee ☕
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=UzairJavaidRather&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=UzaibBashir&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12)
 
 </div>
 
@@ -43,7 +34,7 @@
 <div align="center">
 
 <!-- Activity Graph — shows daily contributions over last few months -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairJavaidRather&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UzaibBashir&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
 
 </div>
 
@@ -92,13 +83,13 @@
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=UzairJavaidRather&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=UzaibBashir&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
 <!-- Followers badge -->
-[![GitHub followers](https://img.shields.io/github/followers/UzairJavaidRather?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/UzairJavaidRather)
+[![GitHub followers](https://img.shields.io/github/followers/UzaibBashir?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/UzaibBashir)
 
 <!-- Stars badge -->
-[![GitHub User's stars](https://img.shields.io/github/stars/UzairJavaidRather?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/UzairJavaidRather)
+[![GitHub User's stars](https://img.shields.io/github/stars/UzaibBashir?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/UzaibBashir)
 
 </div>
 
@@ -108,7 +99,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-UzairJavaidRather-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UzairJavaidRather)
+[![GitHub](https://img.shields.io/badge/GitHub-UzaibBashir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UzaibBashir)
 
 *Feel free to reach out — always up for collaborating, learning, or just geeking out over code.*
 
