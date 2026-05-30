@@ -4,44 +4,8 @@
 </div>
 
 <div align="center">
-
-<!-- Typing Animation (inline RTL SVG to preserve animation on GitHub) -->
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" preserveAspectRatio="xMidYMid meet">
-    <!-- Using SMIL animations (animate/animateTransform) instead of CSS so GitHub's sanitizer
-         is less likely to remove the animation. Each line is visible alone for ~3s in a 12s loop. -->
-    <rect width="100%" height="100%" fill="transparent"/>
-
-    <!-- Right-aligned Arabic lines; only one is visible at a time via SMIL opacity animation -->
-    <text x="580" y="30" text-anchor="end" style="font-family: 'Fira Code', monospace; font-weight:500; font-size:20px; fill:#58A6FF; direction:rtl;" opacity="0">
-      السَّلاَمُ عَلَيْكُمْ
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="0s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="12 0;0 0;0 0;-8 0;-8 0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="0s" repeatCount="indefinite" />
-    </text>
-
-    <text x="580" y="60" text-anchor="end" style="font-family: 'Fira Code', monospace; font-weight:500; font-size:20px; fill:#58A6FF; direction:rtl;" opacity="0">
-      فإن حزب الله هم الغالبون
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="3s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="12 0;0 0;0 0;-8 0;-8 0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="3s" repeatCount="indefinite" />
-    </text>
-
-    <text x="580" y="90" text-anchor="end" style="font-family: 'Fira Code', monospace; font-weight:500; font-size:20px; fill:#58A6FF; direction:rtl;" opacity="0">
-      السلام عليك يا رسول الله
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="6s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="12 0;0 0;0 0;-8 0;-8 0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="6s" repeatCount="indefinite" />
-    </text>
-
-    <text x="580" y="120" text-anchor="end" style="font-family: 'Fira Code', monospace; font-weight:500; font-size:20px; fill:#58A6FF; direction:rtl;" opacity="0">
-      اَلسَّلَامُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="9s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="12 0;0 0;0 0;-8 0;-8 0" keyTimes="0;0.08;0.33;0.41;1" dur="12s" begin="9s" repeatCount="indefinite" />
-    </text>
-  </svg>
+  <p style="font-size:6px; color:#0f2027; direction:rtl; margin:0;">فإن حزب الله هم الغالبون</p>
 </div>
-
-</div>
-
----
 
 ## Skills & Technologies
 
@@ -75,8 +39,6 @@
 ---
 
 *وَالسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ*
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
