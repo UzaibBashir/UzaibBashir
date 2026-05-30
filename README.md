@@ -5,7 +5,7 @@
 
 ## Skills & Technologies
 
-### Languages
+### Languages:
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -30,13 +30,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-
----
-
-<div align="center">
-  <!-- Activity Graph — shows daily contributions over the last year -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzaibBashir&range=year&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
-</div>
 
 ---
 
