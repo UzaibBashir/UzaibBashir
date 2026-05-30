@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzaib%20Bashir%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20CSE%20Student%20%7C%20Developer&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <p style="font-size:6px; color:#0f2027; direction:rtl; margin:0;">فإن حزب الله هم الغالبون</p>
-</div>
-
 ## Skills & Technologies
 
 ### Languages
