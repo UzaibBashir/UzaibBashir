@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzaib%20Bashir%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%2C%20CSE%20Student%2C%20Developer&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzair%20Javaid%20Rather&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -18,11 +18,13 @@
 
 ## 🧑‍💻 About Me
 
-> AI/ML enthusiast, CSE student and software developer building scalable web apps and data-driven models.
+> *"Code is the closest thing we have to a superpower."*
 
-- 🎓 **CSE Student** — focused on AI/ML and systems design
-- 💻 **Developer** — building web apps with Next.js and Python
-- 🔬 **Interests** — machine learning, data analysis, and clean, maintainable code
+- 🎓 **CSE Student** — passionate about writing code that actually matters
+- 🔭 Currently sharpening: **Full-Stack Web Dev**, **Python**, **DSA**, and **OOP**
+- 🌱 Believer in learning in public and building in the open
+- 🤝 Open to collaborating on learning projects and coding challenges
+- ⚡ Fun fact: I debug better with coffee ☕
 
 ---
 
@@ -52,10 +54,11 @@
 ### 🔤 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ### 🌐 Web & Tools
@@ -63,20 +66,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-### 🧪 Data & ML
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
