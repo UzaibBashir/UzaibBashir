@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<!-- Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzaib%20Bashir%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+%E2%80%A2+Coding+%E2%80%A2+Building+%E2%80%A2+Growing;Full-Stack+Development+%7C+Python+%7C+Java;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -40,7 +40,7 @@
 
 ## 🗓️ Monthly Contribution Activity
 
-<div align="center">
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=UzaibBashirMalik&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12)
 
 <!-- Activity Graph — shows daily contributions over last few months -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairJavaidRather&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
@@ -51,7 +51,7 @@
 
 ## 💡 Skills & Technologies
 
-### 🔤 Languages
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UzaibBashirMalik&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -99,11 +99,11 @@
 
 <!-- Stars badge -->
 [![GitHub User's stars](https://img.shields.io/github/stars/UzairJavaidRather?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/UzairJavaidRather)
-
+![Profile Views](https://komarev.com/ghpvc/?username=UzaibBashirMalik&color=58a6ff&style=for-the-badge&label=Profile+Views)
 </div>
 
----
-
+[![GitHub followers](https://img.shields.io/github/followers/UzaibBashirMalik?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/UzaibBashirMalik)
+[![GitHub User's stars](https://img.shields.io/github/stars/UzaibBashirMalik?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/UzaibBashirMalik)
 ## 📫 Connect with Me
 
 <div align="center">
@@ -113,7 +113,7 @@
 *Feel free to reach out — always up for collaborating, learning, or just geeking out over code.*
 
 </div>
-
+[![GitHub](https://img.shields.io/badge/GitHub-UzaibBashirMalik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UzaibBashirMalik)
 ---
 
 <div align="center">
