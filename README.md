@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-## Contribution Activity
+---
 
 <div align="center">
   <!-- Activity Graph — shows daily contributions over the last year -->
@@ -33,7 +33,7 @@
 ---
 
 <div align="center">
-  <p style="font-size:14px; color:#194558; margin:4px 0; direction:rtl; text-align:center;">وَالسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ</p>
   <p style="font-size:14px; color:#194558; margin:4px 0 8px 0; direction:rtl; text-align:center;">فإن حزب الله هم الغالبون</p>
+  <p style="font-size:14px; color:#194558; margin:4px 0; direction:rtl; text-align:center;">وَالسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </div>
