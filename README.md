@@ -33,8 +33,8 @@
 
 ## Education
 
-- Bachelor of Science in Computer Science, COMSATS University Islamabad
-- Relevant coursework: Data Structures, Algorithms, Databases, Software Engineering, Machine Learning
+- Govt College of engineering and technology, kashmir [B.tech (CSE)]
+- Jawahar navodaya vidyalaya, anantnag [intermediate (CBSE)]
 
 ---
 
