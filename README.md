@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
+## Education
+
+- Bachelor of Science in Computer Science, COMSATS University Islamabad
+- Relevant coursework: Data Structures, Algorithms, Databases, Software Engineering, Machine Learning
+
 ---
 
 <div align="center">
