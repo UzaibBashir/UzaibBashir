@@ -33,8 +33,24 @@
 
 ## Education
 
-- Govt College of engineering and technology, kashmir [B.tech (CSE)]
-- Jawahar navodaya vidyalaya, anantnag [intermediate (CBSE)]
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top"><b>🎓</b></td>
+      <td>
+        <b>Govt. College of Engineering and Technology, Kashmir</b><br>
+        <i>B.Tech in Computer Science and Engineering</i>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><b>🏫</b></td>
+      <td>
+        <b>Jawahar Navodaya Vidyalaya, Anantnag</b><br>
+        <i>Intermediate (CBSE)</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
