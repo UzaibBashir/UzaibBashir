@@ -35,22 +35,13 @@
 
 ## Certifications
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="./certificate1.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-Certificate_1-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="180" alt="Certificate 1"/></a>
-      <br>
-      <b>Certificate 1</b><br>
-      Issuing organisation: See certificate
-    </td>
-    <td align="center">
-      <a href="./certificate2.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-Certificate_2-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="180" alt="Certificate 2"/></a>
-      <br>
-      <b>Certificate 2</b><br>
-      Issuing organisation: See certificate
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.simpleicons.org/hp/0096D6" width="40" height="40" alt="HP logo" style="vertical-align: middle; margin-right: 8px;"/>
+<span style="display: inline-block; vertical-align: middle;"><b>Data Science &amp; Analytics</b> — HP<br>
+Credential ID: 9a72eb0c-48c4-4483-9769-df424b90d332</span><br><br>
+
+<img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="40" height="40" alt="Microsoft logo" style="vertical-align: middle; margin-right: 8px;"/>
+<span style="display: inline-block; vertical-align: middle;"><b>Azure Cognitive Services</b> — Microsoft<br>
+Credential ID: DJUOV5TJUC8X</span>
 
 ## Education
 
