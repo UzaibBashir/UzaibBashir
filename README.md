@@ -33,6 +33,25 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
+## Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="./certificate1.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-Certificate_1-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="180" alt="Certificate 1"/></a>
+      <br>
+      <b>Certificate 1</b><br>
+      Issuing organisation: See certificate
+    </td>
+    <td align="center">
+      <a href="./certificate2.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-Certificate_2-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="180" alt="Certificate 2"/></a>
+      <br>
+      <b>Certificate 2</b><br>
+      Issuing organisation: See certificate
+    </td>
+  </tr>
+</table>
+
 ## Education
 
 <div align="left">
