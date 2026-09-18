@@ -35,11 +35,11 @@
 
 ## Certifications
 
-<img src="https://cdn.simpleicons.org/hp/0096D6" width="40" height="40" alt="HP logo" style="vertical-align: middle; margin-right: 8px;"/>
+<a href="https://www.hp.com" target="_blank"><img src="https://cdn.simpleicons.org/hp/0096D6" width="40" height="40" alt="HP logo" style="vertical-align: middle; margin-right: 8px;"/></a>
 <span style="display: inline-block; vertical-align: middle;"><b>Data Science &amp; Analytics</b> — HP<br>
 Credential ID: 9a72eb0c-48c4-4483-9769-df424b90d332</span><br><br>
 
-<img src="https://img.icons8.com/color/48/microsoft.png" width="40" height="40" alt="Microsoft logo" style="vertical-align: middle; margin-right: 8px;"/>
+<a href="https://www.microsoft.com" target="_blank"><img src="https://img.icons8.com/color/48/microsoft.png" width="40" height="40" alt="Microsoft logo" style="vertical-align: middle; margin-right: 8px;"/></a>
 <span style="display: inline-block; vertical-align: middle;"><b>Azure Cognitive Services</b> — Microsoft<br>
 Credential ID: DJUOV5TJUC8X</span>
 
