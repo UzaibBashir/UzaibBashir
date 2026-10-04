@@ -61,7 +61,7 @@
   <tr>
     <td>
       <a href="./certificates/PLAN-D44A9C2C463C.pdf">
-        <img src="https://cdn.simpleicons.org/hp/0096D6" width="40" height="40" alt="HP logo"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IGVv4fYruNAYSGf15qP3m4Ke-_PYQ_Id5fIcgpb6JQ&s=10" width="40" height="40" alt="HP logo"/>
       </a>
     </td>
     <td>
