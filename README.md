@@ -58,6 +58,17 @@
       Credential ID: DJUOV5TJUC8X</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="./certificates/PLAN-D44A9C2C463C.pdf">
+        <img src="https://cdn.simpleicons.org/hp/0096D6" width="40" height="40" alt="HP logo"/>
+      </a>
+    </td>
+    <td>
+      <a href="./certificates/PLAN-D44A9C2C463C.pdf"><b>Data Analytics with AI</b> — IBM (AICTE/Bharat Care)<br>
+      Credential ID: PLAN-D44A9C2C463C</a>
+    </td>
+  </tr>
 </table>
 
 ## Education
